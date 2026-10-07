@@ -8,11 +8,11 @@
  */
 
 export const siteConfig = {
-  name: "Loki Pawprints",
+  name: "Loki",
   handle: "@lokipawprints",
 
   // ✏️ CONTACT EMAIL — used by every "Work With Us" / "Contact" button
-  email: "hello@lokipawprints.com",
+  email: "lokipawprints@gmail.com",
 
   location: "Dallas–Fort Worth, Texas",
 
@@ -24,7 +24,7 @@ export const siteConfig = {
   },
 
   // ✏️ Subject line that pre-fills when a brand clicks an email button
-  collaborationEmailSubject: "Collaboration with Loki Pawprints",
+  collaborationEmailSubject: "Collaboration with Loki",
 }
 
 /* ✏️ NAVIGATION — `href` must match a section's id (e.g. "#about") */
