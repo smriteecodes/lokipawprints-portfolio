@@ -10,10 +10,23 @@
 
 import { siteConfig } from "./site"
 
+const lokiBirthday = new Date(2023, 9, 24)
+const today = new Date()
+
+let lokiAge = today.getFullYear() - lokiBirthday.getFullYear()
+
+if (
+  today.getMonth() < lokiBirthday.getMonth() ||
+  (today.getMonth() === lokiBirthday.getMonth() &&
+    today.getDate() < lokiBirthday.getDate())
+) {
+  lokiAge--
+}
+
 export const lokiProfile = [
   { label: "Name", value: "Loki" },
   { label: "Breed", value: "Cavapoo" },
-  { label: "Age", value: "3" },
+  { label: "Age", value: String(lokiAge) },
   { label: "Based in", value: siteConfig.location },
   { label: "Personality", value: "Curious, expressive, playful & slightly dramatic" },
   {
