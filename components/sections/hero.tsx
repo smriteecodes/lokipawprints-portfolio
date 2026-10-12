@@ -27,9 +27,7 @@ export function Hero() {
           </p>
 
           <p className="mt-6 max-w-xl leading-relaxed text-muted-foreground text-pretty">
-            Loki Pawprints is where dog-parent life meets comedy, creativity, and a little bit of chaos. We create
-            relatable, personality-driven content designed to make pet parents stop scrolling, laugh, and think,{" "}
-            <span className="italic text-foreground">{"“Yep… my dog does that too.”"}</span>
+            Loki Pawprints is where dog-parent life meets comedy, creativity, and a little bit of chaos. {" "} From relatable reels and everyday adventures to enrichment activities and products we genuinely love, we share the funny, sweet, and sometimes chaotic moments that comes with life as dog parents.  
           </p>
 
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
