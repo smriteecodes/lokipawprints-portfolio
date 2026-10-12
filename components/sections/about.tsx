@@ -34,10 +34,7 @@ export function About() {
             <p>
              Meet Smriti and Saujan, the two humans behind Lokipawprints. 
             </p>
-            <p>
-              <strong className="font-semibold text-foreground">{"Then there's Dad:"}</strong>{" "}
-              {"Loki's favorite person in the entire world. No competition. No explanation needed."}
-            </p>
+            
             <p>
               I'm Smriti, Loki's mom and the person behind the camera. I come up with the ideas,
               film and edit our videos, plan his activities, and take more pictures of him
