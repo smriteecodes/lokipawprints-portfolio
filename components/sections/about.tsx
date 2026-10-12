@@ -32,27 +32,31 @@ export function About() {
 
           <div className="mt-8 space-y-5 leading-relaxed text-muted-foreground text-pretty">
             <p>
-              Loki Pawprints started as a little corner of the internet to share life with Loki — and somehow turned
-              into a community following the funny, chaotic, sweet, and very relatable reality of being his humans.
+             Meet Smriti and Saujan, the two humans behind Lokipawprints. 
             </p>
             <p>
               <strong className="font-semibold text-foreground">{"Then there's Dad:"}</strong>{" "}
               {"Loki's favorite person in the entire world. No competition. No explanation needed."}
             </p>
             <p>
-              <strong className="font-semibold text-foreground">And Mom: the spare.</strong> She comes up with the
-              ideas, films and edits the content, plans his enrichment, makes his treats, feeds him, takes
-              approximately a million photos of him, and loves him unconditionally… only for Loki to hear Dad walk into
-              the room and forget she exists. <span aria-hidden="true">😂</span>
+              I'm Smriti, Loki's mom and the person behind the camera. I come up with the ideas,
+              film and edit our videos, plan his activities, and take more pictures of him
+              than I'd like to admit. Loki is pretty much the love of my life, although
+              I'm not too sure the feeling is mutual. 😂
             </p>
+
             <p>
-              Together, we share Loki exactly as he is — expressive, playful, occasionally dramatic, and always keeping
-              us entertained. From comedy skits and everyday dog-parent moments to enrichment, homemade treats,
-              adventures, and brand collaborations, we create content that feels like a peek into our real life with
-              Loki.
-            </p>
-            <p>{"Because around here, Loki isn't just part of the content."}</p>
-          </div>
+              Then there's Saujan, Loki's dad and his absolute favorite person in the world.
+              He makes appearances in our videos, helps bring my ideas to life, and somehow
+              gets all of Loki's attention without even trying.
+  </p>
+
+  <p>
+            What started as us capturing Loki's everyday moments has turned into something
+            we both genuinely love. It's our way of being creative, having fun, and sharing
+            a little bit of our lives with people who love their dogs just as much as we do.
+  </p>
+</div>
 
           <blockquote className="mt-8 border-l-2 border-primary pl-6">
             <p className="font-serif text-3xl font-medium leading-tight text-foreground text-balance md:text-4xl">
